@@ -1,0 +1,11 @@
+*.tsbuildinfo
+
+.npm
+
+.eslintcache
+
+package-lock.json
+
+config.js
+
+node_modules
